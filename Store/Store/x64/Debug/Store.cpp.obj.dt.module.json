@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Store\\x64\\Debug\\Store.obj",
+            "outputs": [
+                "Store\\x64\\Debug\\Store.cpp.obj.dt.module.json",
+                "Store\\x64\\Debug\\Store.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

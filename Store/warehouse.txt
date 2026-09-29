@@ -1,0 +1,7 @@
+101;Milk 3.2%;Dairy;89;40;10
+102;Borodinsky bread;Bread;45;5;15
+103;Rossiysky cheese;Dairy;520;12;5
+104;Golden apples;Fruit;130;0;8
+105;Ground coffee;Beverages;799;3;3
+106;Black tea;Beverages;249;25;10
+107;Butter;Dairy;189;7;1
